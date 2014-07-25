@@ -40,6 +40,8 @@ public class AppTest
     	System.out.println("four");
     	System.out.println("five");
     	System.out.println("six");
+    	System.out.println("10");
+    	System.out.println("11");
     	assertTrue( true );
         
     }
